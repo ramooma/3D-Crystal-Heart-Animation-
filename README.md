@@ -1,4 +1,4 @@
-# 💖 3D Crystal Heart Animation (WebGL)
+# 💖 3D Crystal Heart Animation 
 
 ### A visually stunning, math-driven 3D particle animation built with custom GLSL shaders.
 
